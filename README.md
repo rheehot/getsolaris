@@ -9,7 +9,7 @@
 
 - AWS Architecture
 - Laravel
-- Python (Data Scientist)
+- Python (Data Science)
 
 
 <div align=center>
