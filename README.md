@@ -1,6 +1,7 @@
 ### Software Engineer
 
-> Have a career of 1.5 years
+**Have a career of 1.5 years**
+
 - Taggers, Inc. (05. 2020 - 07. 2020)
 - Seoul National University Hospital (08. 2019 - 04. 2020)
 - The Commerce (10. 2018 - 04. 2019)
