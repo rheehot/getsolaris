@@ -6,11 +6,23 @@
 - Seoul National University Hospital (08. 2019 - 04. 2020)
 - The Commerce (10. 2018 - 04. 2019)
 
+
+### Activity
+
+- 2019 Korea Clinical Datathon Mento (Seoul National University Hospital)
+
+
 ### Interest
 
 - AWS Architecture
 - Laravel
 - Python (Data Science)
+- Git
+
+
+### Education
+
+- Seoul IT Highschool
 
 
 <div align=center>
